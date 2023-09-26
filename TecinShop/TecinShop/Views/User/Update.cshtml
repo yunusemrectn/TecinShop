@@ -1,0 +1,46 @@
+﻿@model EntityLayer.Entities.User
+
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/Layout.cshtml";
+}
+
+<link href="~/eshop/css/bootstrap.min.css" rel="stylesheet" />
+<form method="post">
+    <div class="container">
+        <br />
+        <div form="form-group">
+            <label>Ad</label>
+            <input type="text" class="form-control" name="Name" value="@Model.Name" />
+            @Html.ValidationMessageFor(x => x.Name, "", new { @style = "color:red" })
+        </div>
+        <br />
+        <div form="form-group">
+            <label>Soyad</label>
+            <input type="text" class="form-control" name="Surname" value="@Model.Surname" />
+            @Html.ValidationMessageFor(x => x.Surname, "", new { @style = "color:red" })
+        </div>
+        <br />
+        <div form="form-group">
+            <label>Kullanıcı Acı</label>
+            <input type="text" class="form-control" name="UserName" value="@Model.UserName" />
+            @Html.ValidationMessageFor(x => x.UserName, "", new { @style = "color:red" })
+        </div>
+        <br />
+        <div form="form-group">
+            <label>Email</label>
+            <input type="email" class="form-control" name="Email" value="@Model.Email" />
+            @Html.ValidationMessageFor(x => x.Email, "", new { @style = "color:red" })
+        </div>
+        <br />
+        <div form="form-group">
+            <label>Şifre</label>
+            <input type="password" class="form-control" name="Password" value="@Model.Password" />
+            @Html.ValidationMessageFor(x => x.Password, "", new { @style = "color:red" })
+        </div>
+        <br />
+        <button type="submit" class="btn btn-primary">Güncelle</button>
+    </div>
+</form>
+
+

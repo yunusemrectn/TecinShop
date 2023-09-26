@@ -1,0 +1,307 @@
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\TecinShop.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\TecinShop.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\TecinShop.pdb
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\csc.exe
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\csc.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\csc.rsp
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\csi.exe
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\csi.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\csi.rsp
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.AppContext.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Console.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Net.Http.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\vbc.exe
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\vbc.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\vbc.rsp
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\BusinessLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\DataAccessLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\EntityLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Helpers.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Mvc.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Razor.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Webpages.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\EntityFramework.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\BusinessLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\DataAccessLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\DataAccessLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\EntityLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\EntityLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Razor.xml
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Webpages.xml
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Helpers.xml
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\System.Web.Mvc.xml
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\EntityFramework.xml
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\obj\Debug\TecinShop.csproj.AssemblyReference.cache
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\obj\Debug\TecinShop.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\obj\Debug\TecinShop.csproj.CopyComplete
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\obj\Debug\TecinShop.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\obj\Debug\TecinShop.pdb
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\BusinessLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\EntityFramework.SqlServer.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\EntityFramework.SqlServer.xml
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\PagedList.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\PagedList.Mvc.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\PagedList.xml
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\TecinShop\bin\PagedList.Mvc.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\TecinShop.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\TecinShop.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\TecinShop.pdb
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\csc.exe
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\csc.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\csc.rsp
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\csi.exe
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\csi.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\csi.rsp
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.AppContext.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Console.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Net.Http.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\vbc.exe
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\vbc.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\vbc.rsp
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\BusinessLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\DataAccessLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\EntityFramework.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\EntityFramework.SqlServer.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\EntityLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\PagedList.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\PagedList.Mvc.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Helpers.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Mvc.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Razor.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Webpages.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\BusinessLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\BusinessLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\DataAccessLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\DataAccessLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\EntityLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\EntityLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\EntityFramework.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\EntityFramework.SqlServer.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\PagedList.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\PagedList.Mvc.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Razor.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Webpages.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Helpers.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Web.Mvc.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\obj\Debug\TecinShop.csproj.AssemblyReference.cache
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\obj\Debug\TecinShop.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\obj\Debug\TecinShop.csproj.CopyComplete
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\obj\Debug\TecinShop.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\obj\Debug\TecinShop.pdb
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\BouncyCastle.Cryptography.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\MailKit.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\MimeKit.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Buffers.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Memory.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Numerics.Vectors.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\BouncyCastle.Cryptography.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\MailKit.pdb
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\MailKit.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\MailKit.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\MimeKit.pdb
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\MimeKit.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\MimeKit.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Buffers.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Memory.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Numerics.Vectors.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\TecinShop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\TecinShop.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\TecinShop.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\TecinShop.pdb
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\csc.exe
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\csc.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\csc.rsp
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\csi.exe
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\csi.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\csi.rsp
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.AppContext.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Console.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Net.Http.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\vbc.exe
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\vbc.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\vbc.rsp
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\BouncyCastle.Cryptography.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\BusinessLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\DataAccessLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\EntityFramework.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\EntityFramework.SqlServer.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\EntityLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\MailKit.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\MimeKit.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\PagedList.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\PagedList.Mvc.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Buffers.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Memory.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Numerics.Vectors.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Helpers.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Mvc.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Razor.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Webpages.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\BusinessLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\BusinessLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\DataAccessLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\DataAccessLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\EntityLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\EntityLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\BouncyCastle.Cryptography.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\EntityFramework.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\EntityFramework.SqlServer.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\MailKit.pdb
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\MailKit.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\MailKit.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\MimeKit.pdb
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\MimeKit.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\MimeKit.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\PagedList.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\PagedList.Mvc.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Buffers.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Memory.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Numerics.Vectors.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Razor.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Webpages.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Helpers.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\System.Web.Mvc.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\obj\Debug\TecinShop.csproj.AssemblyReference.cache
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\obj\Debug\TecinShop.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\obj\Debug\TecinShop.csproj.CopyComplete
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\obj\Debug\TecinShop.dll
+C:\Users\emrec\OneDrive\Masaüstü\2122120032_Yunus Emre Çetin\TecinShop\TecinShop\obj\Debug\TecinShop.pdb

@@ -1,0 +1,25 @@
+Programa giriş yapabilmek için gerekli bilgiler.
+Admin
+Kullanıcı Adı : y.emrec79@gmail.com
+Şifre         : 2779
+User
+Kullanıcı Adları :
+y.emrec79@gmail.com
+erencetin@gmail.com
+deniz@gmail.com
+gmurat@gmail.com
+ayseyilmaz@gmail.com
+derya@gmail.com
+selimdur@gmail.com
+ceren@gmail.com
+emrecetin@gmail.com
+
+User Şifreleri : 2779
+
+-----------------------------
+Hazır veritabanını sisteme eklemek için C:\Program Files\Microsoft SQL Server\MSSQL14.MSSQLSERVER\MSSQL\DATA içerisine TecinShop.mdf ve TecinShop_log.ldf dosyalarını atıyoruz.SQL server içerisine
+girerek DataBase e sağ tıklayıp Attach menüsüne tıklıyoruz. Add butonuna basarak attığımız dosyaları seçiyoruz.
+Tecinshop projesinde Web.config içerisine girip connectionstringi kendi veritabanınızla değiştirin.
+
+Örnek connectionString="data source=DESKTOP-LB3DE5H\MSSQLSERVER01;
+connectionString="data source=Bilgisayar Adı\Sql Server; şeklinde düzenliyoruz.

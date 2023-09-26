@@ -1,0 +1,14 @@
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\WebProgramlama\PhoneStore\TecinShop\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\emrec\OneDrive\Masaüstü\TecinShop\EntityLayer\obj\Debug\EntityLayer.pdb

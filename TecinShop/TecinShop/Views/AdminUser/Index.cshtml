@@ -1,0 +1,32 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<EntityLayer.Entities.User>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Kullanıcı Adı</th>
+        <th>Email</th>
+        <th>Şifre</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Surname</td>
+            <td>@item.UserName</td>
+            <td>@item.Email</td>
+            <td>@item.Password</td>
+            <td>@Html.ActionLink("Sil", "Delete", new { @item.Id }, new { @class = "btn btn-danger", onclick = "return confirm ('Silmek istediğinize emin misiniz?')" })</td>
+        </tr>
+
+    }
+</table>
+<div style="display : flex; justify-content: center;">
+    @Html.PagedListPager(Model, sayfa => Url.Action("Index", new { sayfa }), PagedListRenderOptions.Classic)
+</div>
